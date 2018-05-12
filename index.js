@@ -11,7 +11,8 @@ function happyHolidaysTo(name){
 }
 
 //function number three
-function happyHolidayTo(){
+function happyHolidayTo(holiday, name){
+  return `H
   
 }
 
