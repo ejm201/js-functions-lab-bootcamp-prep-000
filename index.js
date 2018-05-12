@@ -17,6 +17,6 @@ function happyHolidayTo(holiday, name){
 }
 
 //function number four
-function holidayCountdown(){
-  
+function holidayCountdown(days, holiday){
+  return `
 }lea
